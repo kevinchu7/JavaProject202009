@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/firstProject/!svn/ver/1484/student_60/src/com/njwb/bean
+END
+Flight.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/firstProject/!svn/ver/1484/student_60/src/com/njwb/bean/Flight.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/bean/Admin.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/bean/Order.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/firstProject/!svn/ver/1484/student_60/src/com/njwb/bean/User.java
+END
+Cabin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/firstProject/!svn/ver/1484/student_60/src/com/njwb/bean/Cabin.java
+END
+FlightCabinRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/firstProject/!svn/ver/1484/student_60/src/com/njwb/bean/FlightCabinRelation.java
+END
+FlightSeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/bean/FlightSeat.java
+END

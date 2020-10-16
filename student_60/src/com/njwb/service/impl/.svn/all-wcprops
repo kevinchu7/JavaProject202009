@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/service/impl
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/firstProject/!svn/ver/1618/student_60/src/com/njwb/service/impl/UserServiceImpl.java
+END
+OrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/service/impl/OrderServiceImpl.java
+END
+AdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/service/impl/AdminServiceImpl.java
+END
+FlightServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/service/impl/FlightServiceImpl.java
+END

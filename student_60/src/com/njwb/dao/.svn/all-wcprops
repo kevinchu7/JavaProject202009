@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/firstProject/!svn/ver/1496/student_60/src/com/njwb/dao
+END
+FlightCabinRelationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/FlightCabinRelationDao.java
+END
+FlightSeatDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/FlightSeatDao.java
+END
+CabinDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/CabinDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/firstProject/!svn/ver/1618/student_60/src/com/njwb/dao/UserDao.java
+END
+OrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/OrderDao.java
+END
+AdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/AdminDao.java
+END
+FlightDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/firstProject/!svn/ver/1332/student_60/src/com/njwb/dao/FlightDao.java
+END

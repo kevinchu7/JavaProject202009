@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/firstProject/!svn/ver/1496/student_60/src
+END
+object.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/firstProject/!svn/ver/1332/student_60/src/object.properties
+END
+ORMapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/firstProject/!svn/ver/1332/student_60/src/ORMapping.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/firstProject/!svn/ver/730/student_60/src/log4j.properties
+END
+datasource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/firstProject/!svn/ver/1484/student_60/src/datasource.properties
+END
